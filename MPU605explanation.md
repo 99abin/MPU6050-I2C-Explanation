@@ -4,4 +4,5 @@ MPU6050 merupakan salah satu sensor yang digunakan pada UAV. Sensor ini digunaka
 
 <b>Gambar 1.1</b> sensor MPU6050 (ElectronicCats, 2023)
 
-Berikut adalah penjelasan lebih lanjut mengenai akselerasi/percepatan yang diukur oleh MPU6050:
+Accelerometer:
+Jadi, mpu6050 akan mengukur percepatan yang ada pada sumbu x, y, dan z. Contohnya sebagai berikut: 
