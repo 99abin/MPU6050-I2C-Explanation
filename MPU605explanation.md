@@ -4,5 +4,4 @@ MPU6050 merupakan salah satu sensor yang digunakan pada UAV. Sensor ini digunaka
 
 <b>Gambar 1.1</b> sensor MPU6050 (ElectronicCats, 2023)
 
-Dengan data-data akselerasi dan giroskop yang didapatkan dari MPU6050, kita dapat menentukan attitude dari UAV yaitu roll, pitch, dan yaw. 
-
+Berikut adalah penjelasan lebih lanjut mengenai akselerasi/percepatan yang diukur oleh MPU6050:
